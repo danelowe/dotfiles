@@ -22,3 +22,9 @@ cd vim
 rake
 ```
 
+Add a Janus/Vim Plugin
+----------------------
+
+```
+git submodule add https://github.com/terryma/vim-smooth-scroll.git janus/vim-smooth-scroll
+```

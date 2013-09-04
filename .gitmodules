@@ -7,3 +7,6 @@
 [submodule "janus/vim-airline"]
 	path = janus/vim-airline
 	url = https://github.com/bling/vim-airline.git
+[submodule "janus/vim-smooth-scroll"]
+	path = janus/vim-smooth-scroll
+	url = https://github.com/terryma/vim-smooth-scroll.git
