@@ -1,2 +1,2 @@
-set shell=/bin/sh
+set shell=/bin/sh "load rvm etc.
 let mapleader  = ','

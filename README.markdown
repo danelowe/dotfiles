@@ -17,6 +17,7 @@ Clone, Run Rake Task for dotfiles, Run rake task for Janus
 ```
 git clone https://github.com/danelowe/dotfiles.git ~/.dotfiles
 cd ~/.dofiles
+git submodule update --init
 rake install
 cd vim
 rake

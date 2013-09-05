@@ -5,6 +5,19 @@ color railscasts
 "nnoremap <C-H> <C-W><C-H>
 
 set mouse=a
+let g:buffergator_display_regime='bufname'
+let g:ctrlp_map = '<F6>'
+let g:vroom_use_vimux = 1
+
+map <F2> :NERDTreeToggle<CR>
+map <F3> :BuffergatorToggle<CR>
+map <F6> :CtrlPMixed<CR>
+
+map <Leader>zu :ZeusStart<CR>
+map <Leader>zs :ZeusServer<CR>
+map <Leader>zc :ZeusConsole<CR>
+map <Leader>zt :ZeusTest 
+map <Leader>zr :ZeusRake 
 
 noremap <silent> <Up> :call smooth_scroll#up(&scroll, 0, 2)<CR>
 noremap <silent> <Down> :call smooth_scroll#down(&scroll, 0, 2)<CR>
