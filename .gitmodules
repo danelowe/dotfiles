@@ -16,3 +16,9 @@
 [submodule "janus/vimux-zeus"]
 	path = janus/vimux-zeus
 	url = https://github.com/jingweno/vimux-zeus
+[submodule "janus/YouCompleteMe"]
+	path = janus/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
+[submodule "janus/php-vim"]
+	path = janus/php-vim
+	url = https://github.com/StanAngeloff/php.vim
