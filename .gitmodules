@@ -22,3 +22,6 @@
 [submodule "janus/php-vim"]
 	path = janus/php-vim
 	url = https://github.com/StanAngeloff/php.vim
+[submodule "janus/delimitMate"]
+	path = janus/delimitMate
+	url = https://github.com/Raimondi/delimitMate
