@@ -25,3 +25,9 @@
 [submodule "janus/delimitMate"]
 	path = janus/delimitMate
 	url = https://github.com/Raimondi/delimitMate
+[submodule "janus/xml-vim"]
+	path = janus/xml-vim
+	url = https://github.com/othree/xml.vim
+[submodule "janus/plantuml-syntax"]
+	path = janus/plantuml-syntax
+	url = https://github.com/aklt/plantuml-syntax
